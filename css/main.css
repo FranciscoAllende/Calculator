@@ -25,6 +25,7 @@ body {
 }
 
 .pantalla{
+    word-wrap: break-word;
     grid-column: 1 / 5;
     background-color: #090c31;
     padding: 1.5rem;
